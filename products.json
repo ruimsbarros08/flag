@@ -1,0 +1,37 @@
+[{
+	"id": 1,
+	"name": "Tomate",
+	"price": 0.35,
+	"category": {
+		"id": "vegetables",
+		"name": "Vegatais",
+		"tax": 0.06
+	}
+}, {
+	"id": 2,
+	"name": "Alface",
+	"price": 0.45,
+	"category": {
+		"id": "vegetables",
+		"name": "Vegatais",
+		"tax": 0.06
+	}
+}, {
+	"id": 3,
+	"name": "Maças",
+	"price": 0.75,
+	"category": {
+		"id": "fruits",
+		"name": "Fruta",
+		"tax": 0.06
+	}
+}, {
+	"id": 4,
+	"name": "TV",
+	"price": 199.99,
+	"category": {
+		"id": "electrodomestics",
+		"name": "Electrodomésticos",
+		"tax": 0.23
+	}
+}]
