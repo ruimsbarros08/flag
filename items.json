@@ -1,0 +1,27 @@
+[{
+	"product": {
+		"id": 1,
+		"name": "Tomate",
+		"price": 0.35,
+		"category": {
+			"id": "vegetables",
+			"name": "Vegatais",
+			"tax": 0.06
+		}
+	},
+	"qtd": 2,
+	"value": 0.70
+}, {
+	"product": {
+		"id": 3,
+		"name": "Maças",
+		"price": 0.75,
+		"category": {
+			"id": "fruits",
+			"name": "Fruta",
+			"tax": 0.06
+		}
+	},
+	"qtd": 2,
+	"value": 1.50
+}]
