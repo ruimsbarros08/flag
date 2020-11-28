@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+   <element>
+      <category>
+         <id>vegetables</id>
+         <name>Vegatais</name>
+         <tax>0.06</tax>
+      </category>
+      <id>1</id>
+      <name>Tomate</name>
+      <price>0.35</price>
+   </element>
+   <element>
+      <category>
+         <id>vegetables</id>
+         <name>Vegatais</name>
+         <tax>0.06</tax>
+      </category>
+      <id>2</id>
+      <name>Alface</name>
+      <price>0.45</price>
+   </element>
+   <element>
+      <category>
+         <id>fruits</id>
+         <name>Fruta</name>
+         <tax>0.06</tax>
+      </category>
+      <id>3</id>
+      <name>Maças</name>
+      <price>0.75</price>
+   </element>
+   <element>
+      <category>
+         <id>electrodomestics</id>
+         <name>Electrodomésticos</name>
+         <tax>0.23</tax>
+      </category>
+      <id>4</id>
+      <name>TV</name>
+      <price>199.99</price>
+   </element>
+</root>
